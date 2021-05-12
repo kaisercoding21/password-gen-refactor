@@ -69,7 +69,7 @@ function writePassword() {
   passwordText.value = password;
 }
 
-writePassword();
+// writePassword();
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", function () {
